@@ -1,2 +1,2 @@
 # react-exercises
-A compilation of React components recreated from the React JS documentation.
+React components which were recreated from the React JS documentation.
